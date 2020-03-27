@@ -30,7 +30,7 @@ import {UploadModule} from './upload/upload.module';
     MaterialModule,
     FlexLayoutModule,
     HttpClientModule,
-    UploadModule
+    UploadModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

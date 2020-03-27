@@ -8,7 +8,7 @@ import {
 import { Subject } from 'rxjs';
 import { Observable } from 'rxjs';
 
-const url = 'https://localhost:44323/api/TravelOrderItem';
+const url = 'https://localhost:44323/api/TravelOrderListItem';
 
 @Injectable()
 export class UploadService {
